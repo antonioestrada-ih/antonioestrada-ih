@@ -14,3 +14,35 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Welcome to My GitHub Profile
+
+Hi there! I'm Antonio, and this is my GitHub profile.
+
+## About Me
+I am a dedicated technical support professional with over 5 years of experience in providing exceptional technical service. I specialize in resolving complex software issues and helping users make the most out of their technology.
+
+### Skills
+- Technical Support
+- Problem-Solving
+- User Training
+- Software Troubleshooting
+
+<!--
+## Projects
+
+Here are some projects I've worked on that demonstrate my technical skills:
+
+1. **Project 1**
+   - Description: Brief description of the project.
+   - [GitHub Link](https://github.com/yourusername/project-1)
+
+2. **Project 2**
+   - Description: Brief description of the project.
+   - [GitHub Link](https://github.com/yourusername/project-2)
+
+3. **Project 3**
+   - Description: Brief description of the project.
+   - [GitHub Link](https://github.com/yourusername/project-3)
+
+-->
